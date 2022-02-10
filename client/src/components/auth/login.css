@@ -1,0 +1,10 @@
+.large text-primary{
+    font-weight: lighter;
+    color: blue;
+}
+.container{
+    background-color: aliceblue;
+}
+.container .h1{
+    color: blue;
+}
